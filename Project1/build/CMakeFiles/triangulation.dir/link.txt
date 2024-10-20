@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/triangulation.dir/src/main.cpp.o CMakeFiles/triangulation.dir/src/triangulation.cpp.o  -o triangulation  -lgmpxx -lmpfr -lgmp -pthread 
